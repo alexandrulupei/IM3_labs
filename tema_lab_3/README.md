@@ -1,0 +1,1 @@
+Tema laborator 3, mana modelata in blender si exportata in formatul fbx
